@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24761'
     url: http://www.gutenberg.org/2009/agents/24761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21511#Bell-s-Cathedrals--The-Priory-Church-of-St.-Bartholomew-the-Great-SmithfieldFabric-and-also-o_
 gutenberg_bookshelf:
 - Architecture
 - United Kingdom
