@@ -1,0 +1,34 @@
+_repo: Bell-s-Cathedrals--The-Priory-Church-of-St.-Bartholomew-the-Great-SmithfieldFabric-and-also-o__21511
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Worley, George
+    gutenberg_agent_id: '24761'
+    url: http://www.gutenberg.org/2009/agents/24761
+description: ''
+gutenberg_bookshelf:
+- Architecture
+- United Kingdom
+gutenberg_issued: '2007-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21511'
+  lccn: 08034264
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'St. Bartholomew-the-Great (Church : London, England)'
+- !lcc 'NA'
+- !lcsh 'London (England) -- Church history'
+- !lcsh 'St. Bartholomew-the-Less (Church : London, England)'
+title: 'Bell''s Cathedrals: The Priory Church of St. Bartholomew-the-Great, Smithfield
+
+  A Short History of the Foundation and a Description of the
+
+  Fabric and also of the Church of St. Bartholomew-the-Less'
+url: http://www.gutenberg.org/ebooks/21511
